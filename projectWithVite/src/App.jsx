@@ -6,8 +6,8 @@ function App() {
    <>
    
    <Riju/>
-   <h1>Rizve Ahmed</h1>
-   <p>okay now test</p>
+   <h1>....</h1>
+   <p>....</p>
    </>
  
 
