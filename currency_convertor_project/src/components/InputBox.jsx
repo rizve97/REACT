@@ -46,8 +46,10 @@ function InputBox({
                 
                 </select>
             </div>
+            
         </div>
     );
 }
 
 export default InputBox;
+
